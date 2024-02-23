@@ -1,0 +1,17 @@
+Start Location Name,Start Location Address,End Location Name,End Location Address
+Guangzhou,"Meiko Electronics - 2 Guangsheng Rd, Nansha District, Guangzhou, Guangdong Province, China, 511458",Guangzhou Port,"Guangzhou (Nansha), Nan Sha Qu, Guang Zhou Shi, China, 511457"
+Guangzhou,"Meiko Electronics - 2 Guangsheng Rd, Nansha District, Guangzhou, Guangdong Province, China, 511458",Shanghai Port,"Shanghai Port International Cruise Terminal, 500 Dongdaming Rd, Hongkou District, Shanghai, China, 200086"
+Guangzhou,"Meiko Electronics - 2 Guangsheng Rd, Nansha District, Guangzhou, Guangdong Province, China, 511458",Guangzhou Airport,"Guangzhou Baiyun International Airport, Baiyun, Guangzhou, Guangdong Province, China"
+Guangzhou Port,"Guangzhou (Nansha), Nan Sha Qu, Guang Zhou Shi, China, 511457",Los Angeles Port,"Container Terminal, APM Terminals Pacific, 2500 Navy Way, Los Angeles"
+Guangzhou Port,"Guangzhou (Nansha), Nan Sha Qu, Guang Zhou Shi, China, 511457",Oakland Port,"Oakland Container Terminal, 530 water street, Oakland CA"
+Shanghai Port,"Shanghai Port International Cruise Terminal, 500 Dongdaming Rd, Hongkou District, Shanghai, China, 200086",Oakland Port,"Oakland Container Terminal, 530 water street, Oakland CA"
+Shanghai Port,"Shanghai Port International Cruise Terminal, 500 Dongdaming Rd, Hongkou District, Shanghai, China, 200086",San Diego Port,"PRPF+64 San Diego, California, USA"
+Los Angeles Port,"Container Terminal, APM Terminals Pacific, 2500 Navy Way, Los Angeles",Oklahoma City Station,Oklahoma City Main Sttion
+Oakland Port,"Oakland Container Terminal, 530 water street, Oakland CA",Fort Worth Station,Dallas Fort Worth
+Oakland Port,"Oakland Container Terminal, 530 water street, Oakland CA",Denver Station,Denver
+San Diego Port,"PRPF+64 San Diego, California, USA",Fort Worth ,"Walmart, 7451 Mc Cart Ave, Fort Worth, TX 76133, United States"
+Fort Worth Airport,"Dallas Fort Worth, international Airport",Fort Worth ,"Walmart, 7451 Mc Cart Ave, Fort Worth, TX 76133, United States"
+Denver Station,Denver,Fort Worth ,"Walmart, 7451 Mc Cart Ave, Fort Worth, TX 76133, United States"
+Fort Worth Station,"Dallas Fort Worth, LBJ Central Station",Fort Worth ,"Walmart, 7451 Mc Cart Ave, Fort Worth, TX 76133, United States"
+Oklahoma City Station,Oklahoma City,Fort Worth ,"Walmart, 7451 Mc Cart Ave, Fort Worth, TX 76133, United States"
+Guangzhou Airport,"Guangzhou Baiyun International Airport, Baiyun, Guangzhou, Guangdong Province, China",Fort Worth Airport,Dallas Fort Worth Cargo Terminal
